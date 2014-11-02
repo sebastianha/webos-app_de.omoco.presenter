@@ -1,0 +1,28 @@
+#back {
+	width:100%;
+	height:800px;
+	background-color:#000;
+}
+
+#back:active {
+	background-color:#222;
+}
+
+#forward {
+	width:100%;
+	height:800px;
+	background-color:#000;
+}
+
+#forward:active {
+	background-color:#222;
+}
+
+#statusoutput {
+	padding:5px;
+	padding-left:10px;
+}
+
+.palm-page-header .header-icon.custom {
+	background: url(../images/header-icon.png) no-repeat;
+}

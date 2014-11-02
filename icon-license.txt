@@ -1,0 +1,3 @@
+Icon from Crystal iconset by Everaldo Coelho.
+The Crystal Project icons are released under LGPL.
+http://www.everaldo.com/

@@ -1,0 +1,15 @@
+[
+    {"source": "app/assistants/stage-assistant.js"},
+    {
+        "scenes": "main",
+        "source": "app/assistants/main-assistant.js"
+    },
+    {
+        "scenes": "clickp",
+        "source": "app/assistants/clickp-assistant.js"
+    },
+    {
+        "scenes": "main-manual",
+        "source": "app/assistants/main-manual-assistant.js"
+    }
+]

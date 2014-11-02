@@ -1,0 +1,20 @@
+{
+	"id": "de.omoco.presenter",
+	"version": "1.0.0",
+	"vendor": "presenter.omoco.de",
+	"type": "web",
+	"main": "index.html",
+	"title": "Simple Presenter",
+	"icon": "icon.png",
+	"smallicon": "images/header-icon.png",
+	"copyright": "© 2011 Sebastian Hammerl",
+	"support": {
+		"url": "http://presenter.omoco.de",
+		"email": {
+			"address": "presenter@omoco.de",
+			"subject": "App Support"
+             },
+        "phone": "",
+        "resources": []
+	}
+}
